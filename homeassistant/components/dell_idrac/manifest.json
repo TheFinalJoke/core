@@ -1,0 +1,12 @@
+{
+  "domain": "dell_idrac",
+  "name": "Dell IDRAC",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/dell_idrac",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@thefinaljoke"]
+}
